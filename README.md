@@ -1,9 +1,9 @@
 # 🥗 PI1 · Easy Cooking: Compreendendo o Negócio
 
-> **Projeto Académico** | Ciência de Dados para Negócios — Fatec Votorantim[cite: 1]  
-> **Autoras:** Ana Elisa Rubinato Cavalheiro & Stefanie Mayumi Inacio Kobayashi[cite: 1]  
+> **Projeto Académico** | Ciência de Dados para Negócios — Fatec Votorantim
+> **Autoras:** Ana Elisa Rubinato Cavalheiro & Stefanie Mayumi Inacio Kobayashi
 > 📌 *Estrutura e texto do README adaptados a partir do modelo original de **Stefanie Mayumi Kobayashi**.*  
-> ⚠️ *Projeto académico. A Easy Cooking é uma empresa fictícia criada para fins de estudo e não está em operação.*[cite: 1]
+> ⚠️ *Projeto académico. A Easy Cooking é uma empresa fictícia criada para fins de estudo e não está em operação.
 ---
 
 📁 **Este é um repositório de portfólio:** reúne os principais pontos do projeto e o pitch deck. O relatório completo e a apresentação final ficam disponíveis sob solicitação.
