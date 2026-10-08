@@ -6,10 +6,6 @@
 > ⚠️ *Projeto académico. A Easy Cooking é uma empresa fictícia criada para fins de estudo e não está em operação.
 ---
 
-📁 **Este é um repositório de portfólio:** reúne os principais pontos do projeto e o pitch deck. O relatório completo e a apresentação final ficam disponíveis sob solicitação.
-
----
-
 ## 🎯 O Problema
 
 Muita gente quer cozinhar mais e desperdiçar menos, mas esbarra em três coisas:
